@@ -1,1 +1,3 @@
-# .github
+# static
+
+Host for static files.
